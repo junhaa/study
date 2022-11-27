@@ -181,7 +181,7 @@
 
   
 
-  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" width = "67%" height = "67%" /></p>
+  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" width = "40%" height = "40%" /></p>
 
   
 
@@ -199,7 +199,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" width = "80%" height = "80%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" /></p>
 
 
 
@@ -455,7 +455,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183926285.png" alt="image-20221127183926285" width = "120%" height = "120%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183926285.png" alt="image-20221127183926285" width = "40%" height = "40%" /></p>
 
 
 
@@ -490,7 +490,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" width = "80%" height = "80%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559"  /></p>
 
 
 
