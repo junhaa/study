@@ -30,6 +30,8 @@
 
 'momuk'에 사용된 오픈소스는 다음과 같다.
 
+
+
 |      오픈소스      |                             역할                             |
 | :----------------: | :----------------------------------------------------------: |
 |    **Flutter**     |     오픈 소스 크로스 플랫폼 GUI 애플리케이션 프레임워크      |
@@ -179,7 +181,7 @@
 
   
 
-  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></p>
+  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" width = "67%" height = "67%" /></p>
 
   
 
@@ -197,7 +199,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" style="zoom: 80%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" width = "80%" height = "80%" /></p>
 
 
 
@@ -268,7 +270,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126160929876.png" alt="image-20221126160929876" style="zoom: 50%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126160929876.png" alt="image-20221126160929876" width = "50%" height = "50%" /></p>
 
 
 
@@ -388,7 +390,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126183524007.png" alt="image-20221126183524007" style="zoom:80%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126183524007.png" alt="image-20221126183524007" width = "80%" height = "80%" /></p>
 
 
 
@@ -440,7 +442,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" style="zoom:150%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" width = "150%" height = "150%" /></p>
 
 
 
@@ -468,7 +470,7 @@
 
   Docker는 **Apache 2.0** 라이선스를 적용하고 있다.
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" width = "67%" height = "67%" /></p>
 
 
 
@@ -488,7 +490,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" style="zoom: 150%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" width = "150%" height = "150%" /></p>
 
 
 
@@ -592,7 +594,7 @@
 
 **'momuk'의 세부 설계와 데이터 이동은 다음 순서대로 이루어진다.**
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127184140262.png" alt="image-20221127184140262" style="zoom:150%;" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127184140262.png" alt="image-20221127184140262" width = "150%" height = "150%" /></p>
 
 
 
