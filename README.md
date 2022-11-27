@@ -442,7 +442,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" width = "150%" height = "150%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" width = "80%" height = "80%" /></p>
 
 
 
@@ -470,7 +470,7 @@
 
   Docker는 **Apache 2.0** 라이선스를 적용하고 있다.
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" width = "67%" height = "67%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" width = "40%" height = "40%" /></p>
 
 
 
@@ -490,7 +490,7 @@
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" width = "150%" height = "150%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" width = "80%" height = "80%" /></p>
 
 
 
