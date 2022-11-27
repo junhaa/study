@@ -1,6 +1,8 @@
 
 
-![image-20221126110745578](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126110745578.png)
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126110745578.png" alt="image-20221126110745578" style="zoom:100%;" /></center>
+
+
 
 
 
@@ -52,7 +54,7 @@
 
 ### 유사 서비스 분석
 
-![image-20221127133430219](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127133430219.png)
+<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127133430219.png" alt="image-20221127133430219"  />
 
 * **배달의 민족, 요기요, 쿠팡이츠 등 배달 앱**
   * 위치기반 서비스이면서 O2O서비스인 위의 앱들을 가장 참고하여 만들었다.
@@ -161,7 +163,7 @@
 
   
 
-  ![image-20221117215924420](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117215924420.png)
+  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117215924420.png" alt="image-20221117215924420"  /></center>
 
   
 
@@ -177,7 +179,7 @@
 
   
 
-  <img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" />
+  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></center>
 
   
 
@@ -195,7 +197,7 @@
 
 
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" style="zoom: 80%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" style="zoom: 80%;" /></center>
 
 
 
@@ -247,7 +249,7 @@
 
   Leaflet은 **BSD-2-Clause** 라이선스를 적용하고 있다.
 
-  ![image-20221126152131057](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png)
+  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></center>
 
   * **[BSD](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C) (Berkeley Software Distribution)** 
     * BSD 허가서는 자유 소프트웨어 저작권의 한 종류이다. 
@@ -266,7 +268,7 @@
 
 
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126160929876.png" alt="image-20221126160929876" style="zoom: 50%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126160929876.png" alt="image-20221126160929876" style="zoom: 50%;" /></center>
 
 
 
@@ -372,7 +374,7 @@
 
   Saleor는 **BSD-3-Clause** 라이선스를 적용하고 있다.
 
-  ![image-20221126152131057](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png)
+  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></center>
 
 
 
@@ -386,7 +388,7 @@
 
 
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126183524007.png" alt="image-20221126183524007" style="zoom:80%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126183524007.png" alt="image-20221126183524007" style="zoom:80%;" /></center>
 
 
 
@@ -422,7 +424,7 @@
 
   OSRM은 **BSD-2-Clause** 라이선스를 적용하고 있다.
 
-![image-20221126152131057](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png)
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></center>
 
 
 
@@ -438,7 +440,7 @@
 
 
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" style="zoom:150%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" style="zoom:150%;" /></center>
 
 
 
@@ -451,7 +453,7 @@
 
 
 
-![image-20221127183926285](https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183926285.png)
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183926285.png" alt="image-20221127183926285"  /></center>
 
 
 
@@ -466,7 +468,7 @@
 
   Docker는 **Apache 2.0** 라이선스를 적용하고 있다.
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></center>
 
 
 
@@ -486,7 +488,7 @@
 
 
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" style="zoom: 150%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" style="zoom: 150%;" /></center>
 
 
 
@@ -565,7 +567,7 @@
 
       
 
-  * **강한 데이터 형식 지정이 필요한 앱** 
+  * **강한 데이터 형식 지정이 필요한 앱.** 
 
     * SQLite의 데이터 형식은 비교적 소수다. 예를 들어 기본 datetime 형식이 없다. 따라서 애플리케이션에서 이러한 형식을 처리해야 한다. 애플리케이션이 아닌 데이터베이스에서 datetime 값을 위한 입력을 정규화하고 제약하고자 한다면 SQLite는 적합하지 않다.
 
@@ -590,7 +592,7 @@
 
 **'momuk'의 세부 설계와 데이터 이동은 다음 순서대로 이루어진다.**
 
-<img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127184140262.png" alt="image-20221127184140262" style="zoom:150%;" />
+<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127184140262.png" alt="image-20221127184140262" style="zoom:150%;" /></center>
 
 
 
