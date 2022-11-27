@@ -1,6 +1,6 @@
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126110745578.png" alt="image-20221126110745578" style="zoom:100%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126110745578.png" alt="image-20221126110745578" style="zoom:100%;" /></p>
 
 
 
@@ -163,7 +163,7 @@
 
   
 
-  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117215924420.png" alt="image-20221117215924420"  /></center>
+  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117215924420.png" alt="image-20221117215924420"  /></p>
 
   
 
@@ -179,7 +179,7 @@
 
   
 
-  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></center>
+  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></p>
 
   
 
@@ -197,7 +197,7 @@
 
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" style="zoom: 80%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126151341972.png" alt="image-20221126151341972" style="zoom: 80%;" /></p>
 
 
 
@@ -249,7 +249,7 @@
 
   Leaflet은 **BSD-2-Clause** 라이선스를 적용하고 있다.
 
-  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></center>
+  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
 
   * **[BSD](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C) (Berkeley Software Distribution)** 
     * BSD 허가서는 자유 소프트웨어 저작권의 한 종류이다. 
@@ -268,7 +268,7 @@
 
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126160929876.png" alt="image-20221126160929876" style="zoom: 50%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126160929876.png" alt="image-20221126160929876" style="zoom: 50%;" /></p>
 
 
 
@@ -374,7 +374,7 @@
 
   Saleor는 **BSD-3-Clause** 라이선스를 적용하고 있다.
 
-  <center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></center>
+  <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
 
 
 
@@ -388,7 +388,7 @@
 
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126183524007.png" alt="image-20221126183524007" style="zoom:80%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126183524007.png" alt="image-20221126183524007" style="zoom:80%;" /></p>
 
 
 
@@ -424,7 +424,7 @@
 
   OSRM은 **BSD-2-Clause** 라이선스를 적용하고 있다.
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
 
 
 
@@ -440,7 +440,7 @@
 
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" style="zoom:150%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183803179.png" alt="image-20221127183803179" style="zoom:150%;" /></p>
 
 
 
@@ -453,7 +453,7 @@
 
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183926285.png" alt="image-20221127183926285"  /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127183926285.png" alt="image-20221127183926285"  /></p>
 
 
 
@@ -468,7 +468,7 @@
 
   Docker는 **Apache 2.0** 라이선스를 적용하고 있다.
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221117220004777.png" alt="image-20221117220004777" style="zoom: 67%;" /></p>
 
 
 
@@ -488,7 +488,7 @@
 
 
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" style="zoom: 150%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126130206559.png" alt="image-20221126130206559" style="zoom: 150%;" /></p>
 
 
 
@@ -592,7 +592,7 @@
 
 **'momuk'의 세부 설계와 데이터 이동은 다음 순서대로 이루어진다.**
 
-<center><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127184140262.png" alt="image-20221127184140262" style="zoom:150%;" /></center>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221127184140262.png" alt="image-20221127184140262" style="zoom:150%;" /></p>
 
 
 
