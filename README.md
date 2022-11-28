@@ -174,6 +174,8 @@
 
 
 
+
+
 ### 3. Neural CF
 
 ---
@@ -235,13 +237,15 @@
 
 
 
+
+
 ### 4. NAVER 지도 API (v3)
 
 ---
 
 
 
-<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221129003344985.png" alt="image-20221129003344985" width = "40%" height = "40%" /></p>
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221129003344985.png" alt="image-20221129003344985"  /></p>
 
 
 
@@ -280,6 +284,8 @@
   * **단일 버전 관리**
 
     * NAVER 지도 API v3는 단일 버전으로 제공한다.
+
+
 
 
 
