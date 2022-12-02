@@ -123,9 +123,97 @@
 
 ---
 
+#### 
+
+​	
+
+
+
+<p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221202193912033.png" alt="image-20221202193912033"  width = "40%" height = "40%"  /></p>
+
+
+
+
+
+* #### Flutter
+
+  * Flutter는 Google에서 개발하고 Mobile World Congress 2018에서 최초 베타 릴리스를 발표하면서 새롭게 소개된 **크로스 플랫폼 모바일 앱 개발 프레임워크**이다.
+
+    
+
+  * 개발자가 iOS와 Android 두 OS에 대해 고품질 기본 인터페이스를 제작하는 데 도움을 주는 **크로스 플랫폼 프레임워크**라고 할 수 있다.
+
+    * **크로스 플랫폼**을 이용하는 이유
+
+      * 크로스 플랫폼을 이용한다면 하나의 프레임워크로 안드로이드, iOS 모두를 동시 개발이 가능하기 때문에 개발 자원을 줄일 수 있다. 
+
+      * 관리 또한 하나의 개발 소스만 관리하면 해결되기 때문에 훨씬 편리하다.
+
+      * 대표적인 모바일 크로스 플랫폼 프레임워크로는 React-Native와 Flutter가 있다.
+
+        
+
+  * 기존 UI를 모두 버리고 **자체적으로 UI를 렌더링**하기 때문에 iOS에서 material 디자인과 ripple 애니메이션 을 볼 수 있고 Android 에서 cupertino 디자인을 볼 수 있다.
+
+    * 화면 전체를 2D 그래픽 API로 fillRect 하고 drawText drawImage 해서 앱을 만드는 것처럼 Flutter 엔진이 Skia 기반으로 렌더링 해준다.
+
+    * 웹 개발에서 HTML을 모두 무시하고 전체를 flash나 canvas로 만드는 것과 같다.
+
+      
+
+  * Google이 개발한 오픈 소스 프로그래밍 언어인 **Dart**를 사용한다.
+
+    * Dart는 UI를 구축하는 데 최적화되어 있다.
+    * Sound Null Safety 기능은 개발자가 코드 유지 관리에 허비하는 시간을 줄이고 애플리케이션 구축에 집중할 수 있는 시간을 더 확보해 준다.
+      * Sound Null Safety : Dart의 Sound Null Safety는 null 오류라는 일반적인 버그를 손쉽게 감지할 수 있도록 해주는 기능
+
+
+
+* #### Flutter의 장점
+
+  * **다양한 Editor**(Android Studio, VS Code 등등)를 사용하여 빌드가 가능하다.
+
+  * 기존 React Native 혹은 Hybrid App의 경우 네이티브 브릿지를 통한 통신이 불가피하였지만, Flutter는 **직접 컴파일되서 Render를 직접 하기때문에 성능이 더욱 빠르다**.
+
+  * Androd와 iOS의 **대표 디자인 가이드를 기본적으로 제공**한다.
+
+    * 구글의 머티리얼 디자인(Material Design)의 홈페이지에는 이미 Flutter가 포함되어 있고 가이드만 제공하는 것 뿐만아니라 Flutter 프로젝트에 바로 추가하여 사용할 수 있는 패키지도 제공한다.
+
+    * 안드로이드와 iOS에서 같은 머티리얼 디자인을 사용하더라도 플랫폼에 따라 다르게 출력되는 부분을 각각 디자인 가이드에 맞게 화면을 그린다.
+
+    * iOS앱을 개발하는 경우 iOS특유의 디자인 시스템인 쿠퍼티노(Cupertino) 위젯을 제공한다.
+
+      
+
+    
+
+
+
+
+
+
+
+* #### Flutter의 라이선스
+
+  Flutter는 **BSD-3-Clause 라이선스**를 적용하고 있다.
+
+  * **[BSD](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C) (Berkeley Software Distribution)** 
+
+    * BSD 허가서는 자유 소프트웨어 저작권의 한 종류이다. 
+
+    * BSD 라이선스는 아무나 개작할 수 있고, 수정한 것을 제한 없이 배포할 수 있다. 다만 수정 본의 재배포는 의무적인 사항이 아니므로 아무런 제한 없이 누구나 자신의 용도로 사용할 수 있고, 공개하지 않아도 되는 상용 소프트웨어에서도 사용할 수 있다. 
+
+    * 대신 사용자의 사용으로 인해 발생하는 모든 책임은 사용자 본인에게 있다.
+
+      <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
+
 
 
 ### 2. Django
+
+---
+
+
 
 
 
@@ -158,18 +246,6 @@
 * #### Django의 라이선스
 
   Django는 **BSD라이선스**를 적용하고 있다.
-
-  * **[BSD](https://ko.wikipedia.org/wiki/BSD_%ED%97%88%EA%B0%80%EC%84%9C) (Berkeley Software Distribution)** 
-
-    * BSD 허가서는 자유 소프트웨어 저작권의 한 종류이다. 
-
-    * BSD 라이선스는 아무나 개작할 수 있고, 수정한 것을 제한 없이 배포할 수 있다. 다만 수정 본의 재배포는 의무적인 사항이 아니므로 아무런 제한 없이 누구나 자신의 용도로 사용할 수 있고, 공개하지 않아도 되는 상용 소프트웨어에서도 사용할 수 있다. 
-
-    * 대신 사용자의 사용으로 인해 발생하는 모든 책임은 사용자 본인에게 있다.
-
-      <p align="center"><img src="https://github.com/hs-2171326-junhakim/study/blob/main/image/image-20221126152131057.png" alt="image-20221126152131057"  /></p>
-
-  
 
 
 
